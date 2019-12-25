@@ -1,0 +1,4 @@
+services:
+  extlink_popup.popup_service:
+    class: Drupal\extlink_popup\ExtlinkPopupService
+    arguments: ['@config.factory']

@@ -1,0 +1,6 @@
+main:
+  version: VERSION
+  js:
+    js/extlink_popup.js: {}
+  dependencies:
+    - core/drupal.dialog

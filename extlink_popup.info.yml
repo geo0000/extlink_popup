@@ -1,0 +1,5 @@
+name: 'Extlink popup'
+description: 'Allows to display JQuery popup for external links.'
+core: 8.x
+dependencies:
+type: module
